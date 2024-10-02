@@ -280,7 +280,7 @@ if (!eventday)
   setInterval(updateCountDown, 1000);
 else {
   var Namelength = Names.length;      //to find no of bdays in present day     
-  const imageUrl = 'https://Lavin-tom.github.io/assets/Bday_card_template_23.jpg';
+  const imageUrl = 'https://lavin-tom.github.io/HBD2u/assets/Bday_card_template_23.jpg';
   const downloadButton = document.getElementById('#myButton');
   //var userInput = " ";
 
