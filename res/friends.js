@@ -503,6 +503,10 @@ const friends = [
     name: 'Swathy',
     birthday: new Date('September 30, 0000'),
   },
+  {//Oct - 17
+    name: 'Aswin',
+    birthday: new Date('October 2, 0000'),
+  },
   {//Oct - 16
     name: 'Bilgy',
     birthday: new Date('October 4, 0000'),
