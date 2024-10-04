@@ -1,5 +1,5 @@
 const friends = [
-  {//Jan - 13
+  {//Jan - 15
     name: 'Athmi',
     birthday: new Date('January 01, 0000'),
   },
@@ -34,6 +34,10 @@ const friends = [
   {
     name: 'Santhosh',
     birthday: new Date('January 13, 0000'),
+  },
+  {
+    name: 'Jordan',
+    birthday: new Date('January 15, 0000'),
   },
   {
     name: 'Dinil',
@@ -311,7 +315,7 @@ const friends = [
     name: 'Nandhu',
     birthday: new Date('May 25, 0000'),
   },
-  {//Jun - 10
+  {//Jun - 11
     name: 'Jithu',
     birthday: new Date('June 3, 0000'),
   },
@@ -395,7 +399,7 @@ const friends = [
     name: 'Thoma',
     birthday: new Date('July 30, 0000'),
   },
-  {//Aug - 12
+  {//Aug - 13
     name: 'Adarsh',
     birthday: new Date('August 1, 0000'),
   },
@@ -503,13 +507,17 @@ const friends = [
     name: 'Swathy',
     birthday: new Date('September 30, 0000'),
   },
-  {//Oct - 17
+  {//Oct - 18
     name: 'Aswin',
     birthday: new Date('October 2, 0000'),
   },
-  {//Oct - 16
+  {
     name: 'Bilgy',
     birthday: new Date('October 4, 0000'),
+  },
+  {
+    name: 'Srivyshnavi',
+    birthday: new Date('October 5, 0000'),
   },
   {
     name: 'Jinsu',
@@ -643,7 +651,7 @@ const friends = [
     name: 'Bini',
     birthday: new Date('November 30, 0000'),
   },
-  {//Dec - 16
+  {//Dec - 17
     name: 'Reshma',
     birthday: new Date('December 02, 0000'),
   },
@@ -712,4 +720,4 @@ const friends = [
     birthday: new Date('December 29, 0000'),
   }
 ];
-//174 birthday
+//180 birthday
